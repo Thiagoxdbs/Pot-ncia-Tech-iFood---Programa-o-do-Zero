@@ -34,7 +34,7 @@ Criei algumas variável para armazenar informações do personagem, uma class He
 Foi utilizado no desafio:
 	
                     -Variáveis
-          					-Operadores
-          					-Laços de repetição
-          					-Funções
-          					-Classe e Objetos
+		    -Operadores
+      -Laços de repetição
+      -Funções
+      -Classe e Objetos
