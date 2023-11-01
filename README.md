@@ -33,8 +33,8 @@ Criei uma variável para armazenar o nome e duas para derrota e vitorio, definin
 Criei algumas variável para armazenar informações do personagem, uma class Heroi, funções e trabalhei com laço de repetição para sempre que quiser reiniciar ou recriar os dados do personagem, sempre que desejar atualizar o heroi.
 Foi utilizado no desafio:
 	
-                    -Variáveis
-		    -Operadores
-      -Laços de repetição
-      -Funções
-      -Classe e Objetos
+	-Variáveis
+	-Operadores
+	-Laços de repetição
+	-Funções
+	-Classe e Objetos
