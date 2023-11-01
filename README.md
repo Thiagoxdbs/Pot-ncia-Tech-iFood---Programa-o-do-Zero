@@ -27,3 +27,14 @@ Criei uma variável para armazenar o nome e duas para derrota e vitorio, definin
                     Se XP for entre 81 e 90 = Ascendente
                     Se XP for entre 91 e 100 = Imortal
                     Se XP for maior ou igual a 101 = Radiante
+
+*Desafio Classe de um Jogo* 
+
+Criei algumas variável para armazenar informações do personagem, uma class Heroi, funções e trabalhei com laço de repetição para sempre que quiser reiniciar ou recriar os dados do personagem, sempre que desejar atualizar o heroi.
+Foi utilizado no desafio:
+	
+                    -Variáveis
+          					-Operadores
+          					-Laços de repetição
+          					-Funções
+          					-Classe e Objetos
